@@ -1,0 +1,11 @@
+ALGORITHM insertion
+VAR
+    set_declarations
+BEGIN
+ write('take new card');
+ read('card');
+ FOR i FROM 0 TO i-1 STEP step  DO
+    write('put the card in the our place');
+    arr[i]=0;
+ END_FOR
+END
